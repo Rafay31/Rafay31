@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm [Rafay](https://www.linkedin.com/in/rafay-aamer-waheed/), an engineering student currently at the University of British Columbia (UBC).
 
-I design and build whatever comes to mind; if an idea is realistic enough, chances are I'll build it.
+I design and build whatever comes to mind; if an idea is realistic enough and makes life easier, chances are I'll build it.
 
 My coding repertoire consists of C++ and Python. 
 I have around 8 years of experience with CAD (mainly Fusion and SOLIDWORKS) but I am also familiar with Blender, FreeCAD, and Inventor.
